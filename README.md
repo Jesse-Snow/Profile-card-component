@@ -22,7 +22,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+-  [Preview](https://jesse-snow.github.io/Profile-card-component/)
 
 ## My process
 
