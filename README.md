@@ -33,7 +33,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### What I learned
 
 Use position absolute and position relative
-top put the person image in the center.
+to put the person image in the center.
+Use background property to put images and move them.
 
 ### Continued development
 
